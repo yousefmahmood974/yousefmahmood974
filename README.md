@@ -1,19 +1,5 @@
 # Hi 👋, I'm Yousef Mahmoud
-## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR-USERNAME&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR-USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR-USERNAME&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR-USERNAME&theme=tokyonight&utcOffset=3" />
-</p>
 ### 💻 Computer & Programming Enthusiast from Qatar 🇶🇦
 
 I'm passionate about **computers, programming, hardware, networking, and technology**.
