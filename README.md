@@ -281,3 +281,8 @@ I'm interested in developing my career toward areas such as:
 https://yousefmahmood974.github.io/yousefmahmood/#home
 > **Learn → Build → Test → Troubleshoot → Improve → Repeat**
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yousefmahmood974&theme=holi&name=yousef+mahmood)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yousefmahmood974&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yousefmahmood974&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yousefmahmood974&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yousefmahmood974&theme=holi&utcOffset=0)
