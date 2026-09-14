@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yusuf Mahmoud
+# Hi 👋, I'm Yousef Mahmoud
 
 ### 💻 Computer & Programming Enthusiast from Qatar 🇶🇦
 
