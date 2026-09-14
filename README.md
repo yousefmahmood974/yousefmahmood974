@@ -52,7 +52,7 @@ I'm especially interested in understanding technology from both the **hardware a
 ## 🔧 Hardware & IT
 
 I have a strong interest in computer hardware and practical IT.
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5E73F3&width=435&lines=Networking+%7C+Linux+%7C+Cybersecurity;Python+Developer+%7C+Web+Development;PC+Hardware+%26+IT+Troubleshooting;Computer+%26+Programming+Enthusiast" alt="Typing SVG" /></a>
 ### PC Hardware
 
 * 🖥️ PC Building & Component Installation
