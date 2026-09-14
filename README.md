@@ -1,5 +1,5 @@
 # Hi 👋, I'm Yousef Mahmoud
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Code++.+.+.+.+zone;Python+%2C+Jave+%2C+css+%2C+html+.php" alt="Typing SVG" /></a>
 ### 💻 Computer & Programming Enthusiast from Qatar 🇶🇦
 
 I'm passionate about **computers, programming, hardware, networking, and technology**.
